@@ -17,6 +17,14 @@
 
 ---
 
+## Ссылки на репозитории
+
+- Ссылка на репозиторий Spring Boot бэкенда - https://github.com/stoneshik/practice-vkr-verifier-backend
+- Ссылка на репозиторий React Typescript фронтенда - https://github.com/stoneshik/practice-vkr-verifier-frontend
+- Ссылка на репозиторий скрипта верификации на Python - https://github.com/stoneshik/practice-vkr-verifier
+
+---
+
 ## Назначение модулей
 
 ### Core
